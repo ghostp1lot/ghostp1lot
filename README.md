@@ -1,18 +1,8 @@
-# ghostp1lot
+<h1 align="center">ghostp1lot</h1>
+<h3 align="center"><b>Fully automatic. Fully undetectable</b></h3>
+<h3 align="center"><a href="https://ghostp1lot.com">ghostp1lot.com</a></h2>
+<br/>
+<h2 align="center"><a href="https://ghostp1lot.com/beta">Early Access</a></h2>
+<h2 align="center"><a href="https://ghostp1lot.com/contact">Join the Team</a></h2>
 
-**Fully automatic. Fully undetectable.**
 
-## About
-
-[ghostp1lot.com](https://ghostp1lot.com) is an educational automation platform that helps students manage and complete homework assignments efficiently.
-
-### What We Do
-
-- 🤖 Automated homework completion
-- 📚 Personalized lesson integration
-- 🔄 Google Classroom synchronization
-- ✨ AI-powered assignment processing
-
----
-
-*Building tools that make learning more accessible.*
